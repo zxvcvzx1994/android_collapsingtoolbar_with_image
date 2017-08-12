@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="title_activity_information">Information</string>
+    <string name="information">Information</string>
+    <string name="find">Find</string>
+    <string name="acitivityinformation">Get Information</string>
+</resources>

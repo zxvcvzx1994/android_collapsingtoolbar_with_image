@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng dụng</string>
+    <string name="add">Thêm</string>
+    <string name="cancel">Hủy</string>
+    <string name="description">Mô tả</string>
+    <string name="name">Tên</string>
+</resources>
